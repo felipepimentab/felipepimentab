@@ -3,9 +3,8 @@
 
 ## About me 👨‍💻
 
-- 🎓 &nbsp; I am an **Electrical Engineer** undergraduate student at [**University of São Paulo**](https://www5.usp.br/);
+- 🎓 &nbsp; I am an **Electrical Engineer** graduate student at [**University of São Paulo**](https://www5.usp.br/);
 - 💻 &nbsp; I am currently working as a **Front-End developer** at [**UpCities**](https://www.linkedin.com/company/upcities/);
-- 📚 &nbsp; I am currently learning **Internet of Things** for my Final Paper;
 - 🏃 &nbsp; I love running and going to the beach!
 
 
