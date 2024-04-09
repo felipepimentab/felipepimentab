@@ -3,10 +3,9 @@
 
 ## About me 👨‍💻
 
-- 🎓 &nbsp; I am an **Electrical Engineer** graduate student at [**University of São Paulo**](https://www5.usp.br/);
-- 💻 &nbsp; I am currently working as a **Front-End developer** at [**UpCities**](https://www.linkedin.com/company/upcities/);
-- 🏃 &nbsp; I love running and going to the beach!
-
+- 🎓 &nbsp; Bachelor in **Electrical and Electronics Engineering** at [**University of São Paulo**](https://www5.usp.br/);
+- 📚 &nbsp; MSc student in **Electrical and Electronics Engineering** at [**University of São Paulo**](https://www5.usp.br/);
+- 💻 &nbsp; **Front-End developer** at [**UpCities**](https://www.linkedin.com/company/upcities/).
 
 ## Programming languages 🚀
 
@@ -29,7 +28,6 @@
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
   <img alt="Npm" src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
   <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img alt="MarkDown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
   <img alt="Node-RED" src="https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white">
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </p>
@@ -43,7 +41,7 @@
 	<a href="https://twitter.com/felipepimentab"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
 </p>
 
-<details> 
+<!-- <details> 
   <summary><b>GitHub Profile Stats (Expand to view) 💻</b></summary>
   <br/>
   <p align="left">
@@ -52,9 +50,9 @@
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
-</details>
+</details> -->
 
 <hr/>
 
 * Credit: [felipepimentab](https://github.com/felipepimentab)
-* Last Edited on: 19/04/2023
+* Last Edited on: 09/04/2024
