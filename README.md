@@ -1,4 +1,4 @@
-### Hello, I'm Felipe Pimenta
+## Hello, I'm Felipe Pimenta
 <img align="right" alt="Emoji" height="160px" src="./assets/github-pp.png" />
 
 #### About me
